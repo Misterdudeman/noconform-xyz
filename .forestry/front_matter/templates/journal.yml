@@ -33,9 +33,6 @@ fields:
     required: true
     options: []
   label: Author
-  default: Nichlas W. Andersen
-  showOnly:
-    field: author
-    value: Nichlas W. Andersen
+  default: ''
 pages:
 - journal/hello-world.md
