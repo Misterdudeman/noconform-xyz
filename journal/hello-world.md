@@ -1,6 +1,6 @@
 ---
 date: 2020-12-21
-author: Nichlas W. Andersen
+author: ''
 title: Hello World!!
 excerpt: |-
   Hi,
