@@ -31,9 +31,11 @@ fields:
       section: authors
       file: data/authors/nichlas-w-andersen.json
     required: true
-    options:
-    - Nichlas W. Andersen
+    options: []
   label: Author
   default: Nichlas W. Andersen
+  showOnly:
+    field: author
+    value: Nichlas W. Andersen
 pages:
 - journal/hello-world.md
