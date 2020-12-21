@@ -34,6 +34,6 @@ fields:
     options:
     - Ian M-K
   label: Author
-  default: ''
+  default: Ian M-K
 pages:
 - journal/hello-world.md
